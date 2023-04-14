@@ -2,4 +2,5 @@
 
 These are a list of personal projects that consists of the following projects:
 
-Spacial Filters
+1. Spacial Filters
+2. SIFT
